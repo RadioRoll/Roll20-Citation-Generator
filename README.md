@@ -28,8 +28,13 @@ These citations are the same in chat and in Handouts thanks to some formatting c
 
 <img width="398" height="136" alt="image" src="https://github.com/user-attachments/assets/e38acb37-187a-4f0c-8717-5fce56a66c48" />  
   
-Stores citations as handouts, and are recallable, assignable and thanks to roll20's handout system,   
+Stores citations as handouts, and are recallable,   
+assignable and thanks to roll20's handout system,   
 can be laid on the field of play as pins and in other objects.   
+  
+Token example --->   <img width="70" height="70" alt="Citation Token" src="https://github.com/user-attachments/assets/fed0be8d-a34e-4dec-864a-035fa3578a4d" />    
+This token image is supplied, but must be added to the pin after, manually.   
+**this might be a future feature, we'll see**
 
 Will auto assign to players, if name input is the same as on character sheet.   
 A full record of all citations currently saved is availible to the GM.   
