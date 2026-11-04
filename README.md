@@ -1,4 +1,6 @@
-# ACS
+# ACS  
+<img width="1920" height="1080" alt="Citation Cover" src="https://github.com/user-attachments/assets/40b1b189-ae6f-4c71-8ee5-b8f4d7e3ee8f" />  
+  
 ## Roll20-Citation-Generator  
 A script for creating dynamic and modern styled citations/fines/tickets for Modern TTRPGs, almost instantly.  
 Useable in prep and play, with customisable fields for:  
