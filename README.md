@@ -18,10 +18,10 @@ Full GM control of archive is availible with commands.
   
   
 ## COMMANDS
-`!cite`       - Open GM citation terminal 
-`!citehelp`   - Display instructions
-
- #### CITATION STORAGE.  
+`!cite`       - Open GM citation terminal   
+`!citehelp`   - Display instructions  
+   
+ #### CITATION STORAGE.   
  Individual handouts contain citation records. One master register handout contains the index.  
  GM can access a menu for manipulating the citation automatically. Changing the state of the handout document instantly.   
  The index is GM only.  
