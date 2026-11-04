@@ -27,4 +27,7 @@ Full GM control of archive is availible with commands.
  The index is GM only.  
  The index has clickable links to all listed citations for easy recall.  
  API state stores ONLY the next citation number. For minimal data impact.  
- Access the Manage menu to delete handouts from the system entirely.   
+ Access the Manage menu to delete handouts from the system entirely.  
+
+_“'ACS' Roll20 Citation Generator is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.”_  
+
