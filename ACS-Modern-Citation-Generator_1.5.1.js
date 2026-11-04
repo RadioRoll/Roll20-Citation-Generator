@@ -1,15 +1,21 @@
 /*
- * AUTOMATED CITATION SYSTEM v1.5.1
+ * AUTOMATED CITATION SYSTEM (ACS) v1.5.1
  * Roll20 Mod / API Script
+ * Create on the fly stylised and on the fly customisable citations with several custom fields.
  *
  * COMMANDS
  * !cite       - Open GM citation terminal
  * !citehelp   - Display instructions
  *
- * STORAGE
+ * CITATION STORAGE
  * Individual handouts contain citation records.
  * One master register handout contains the index.
- * API state stores ONLY the next citation number.
+ * GM can access a menu for manipulating the citation automatically. 
+ * Changing the state of the handout document instantly.
+ * The index is GM only.
+ * The index has clickable links to all listed citations for easy recall.
+ * API state stores ONLY the next citation number. For minimal data impact.
+ * access the Manage menu to delete handouts from the system intirely. 
  *
  * REFERANCE
  * 01 - Colours, buttons and chat styling
@@ -20,9 +26,6 @@
  * 06 - Issue a citation
  * 07 - Manage, pay and cancel
  * 08 - Roll20 commands and startup
- *
- * All chat button rows use C.centerButtons().
- * Help text remains left-aligned.
  */
 
 var CyberCitation = CyberCitation || {};
